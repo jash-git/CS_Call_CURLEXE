@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Call_CURLEXE", "CS_Call_CURLEXE\CS_Call_CURLEXE.csproj", "{A981790D-7024-459C-B913-4FF0576911AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A981790D-7024-459C-B913-4FF0576911AE}.Debug|x86.ActiveCfg = Debug|x86
+		{A981790D-7024-459C-B913-4FF0576911AE}.Debug|x86.Build.0 = Debug|x86
+		{A981790D-7024-459C-B913-4FF0576911AE}.Release|x86.ActiveCfg = Release|x86
+		{A981790D-7024-459C-B913-4FF0576911AE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\RD\Desktop\CS_Call_CURLEXE\CS_Call_CURLEXE\bin\Debug\CS_Call_CURLEXE.exe
+C:\Users\RD\Desktop\CS_Call_CURLEXE\CS_Call_CURLEXE\bin\Debug\CS_Call_CURLEXE.pdb
+C:\Users\RD\Desktop\CS_Call_CURLEXE\CS_Call_CURLEXE\obj\x86\Debug\CS_Call_CURLEXE.exe
+C:\Users\RD\Desktop\CS_Call_CURLEXE\CS_Call_CURLEXE\obj\x86\Debug\CS_Call_CURLEXE.pdb
